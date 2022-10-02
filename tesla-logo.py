@@ -5,10 +5,6 @@ t.speed(0)
 
 
 class Tesla:
-    def __init__(self):
-        self.t = turtle.Turtle()
-        self.t.getscreen().bgcolor("#FEFBF6")
-
     def teslaTop(self):
         t.color("#E82127")
         self.e(-160, 160)
