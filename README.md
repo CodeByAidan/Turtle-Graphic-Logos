@@ -2,9 +2,9 @@
 Creating random images/logos in a simple beginner-friendly library called Turtle, in Python.
 
 ## Tesla Logo:
-![Tesla Logo](https://imgur.com/a/DC2931w)
+![Tesla Logo](https://i.imgur.com/4KG3O9g.gif)
 ---
 
 ## Turtle Race:
-![Turtle Race](https://imgur.com/a/uzy97tV)
+![Turtle Race](https://i.imgur.com/8gll5XF.gif)
 ---
