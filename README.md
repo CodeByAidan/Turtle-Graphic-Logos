@@ -9,4 +9,5 @@ Creating random images/logos in a simple beginner-friendly library called Turtle
 
 ## Turtle Race:
 <img src="https://i.imgur.com/8gll5XF.gif" alt="Turtle Race" width="500" height="500" />
+
 ---
